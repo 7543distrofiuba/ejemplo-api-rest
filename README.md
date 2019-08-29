@@ -7,7 +7,9 @@ Además, este mismo stack va a ser utilizado para el TP asi que sugerimos que in
 
 ## Inicialización
 
-Para poder correr el servidor, primero debemos correr los siguientes comandos:
+Primero, asegurarse de tener python 3 instalado: https://docs.python-guide.org/starting/install3/linux/
+
+A continuación debemos correr los siguientes comandos, para generar el entorno y descargar las dependencias que usaremos:
 
     python3 -m venv .venv
     source .venv/bin/activate
